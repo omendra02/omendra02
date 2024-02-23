@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center" >
-    <img width="200" src = "Profile.jpg">
+    <img width="200" src = "profile.jpg">
 </p>
 <p align ="centre"> I'm Omendra Singh Tomar, a tech-savvy Computer Science Engineer with a knack for cracking codes in Java, AWS, SQL, Docker, Jenkins, and Selenium! 
   Let's team up to conquer challenges and create tech wonders! Ready to build the next big thing together? </p>
