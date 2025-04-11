@@ -3,7 +3,7 @@
 <p align="center" >
     <img width="200" >
 </p>
-<p align ="centre"> I'm Omendra Singh Tomar, a tech-savvy Computer Science Engineer with a knack for cracking codes in Java, AWS, SQL, Docker, Jenkins, and Selenium! 
+<p align ="centre"> I'm Omendra Singh Tomar, a tech-savvy Computer Science Engineer with a knack for cracking codes in Java, AWS, AZURE, Docker, Kubernetes, and Terraform 
   Let's team up to conquer challenges and create tech wonders! Ready to build the next big thing together? </p>
 
 
